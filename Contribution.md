@@ -1,4 +1,4 @@
-# 🤝 Contributing to MindfulTimerApp
+# 🤝 Contributing to Reset App
 
 Thanks for your interest in contributing! We’re excited to build this together.
 
